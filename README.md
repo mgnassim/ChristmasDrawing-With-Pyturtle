@@ -1,12 +1,11 @@
 # ChristmasDrawing-With-Pyturtle
+old little project.
 optimized for 1366x768. to lazy to fix responsiveness.
 
-In terminal it asks routinely for the amount of:
+In the terminal it asks routinely to draw the amount of:
   - Clouds
   - Houses
-  - Christmas people
+  - Christmas dolls
   - Fishes
   - Trees
- to draw.
- 
  
